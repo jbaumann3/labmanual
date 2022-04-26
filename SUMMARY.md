@@ -2,10 +2,13 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## The Basics
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [PI Expectations](the-basics/pi-expectations.md)
+* [Student Expectations](the-basics/student-expectations.md)
+* [Code of Conduct and Community Guidelines](the-basics/code-of-conduct-and-community-guidelines.md)
+* [Lab Communications](the-basics/lab-communications.md)
+* [Lab Meetings](the-basics/lab-meetings.md)
 
 ## The Formal Stuff
 
