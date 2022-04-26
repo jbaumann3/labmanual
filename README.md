@@ -1,8 +1,4 @@
 ---
-description: >-
-  Welcome to the Baumann lab. We're glad you are here. This lab manual contains
-  notes about different functions of the lab, expectations for lab members, and
-  a code of conduct.
 coverY: 0
 ---
 
