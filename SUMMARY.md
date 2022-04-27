@@ -4,9 +4,10 @@
 
 ## The Basics
 
+* [Land Acknowledgement](the-basics/land-acknowledgement.md)
+* [Code of Conduct and Community Guidelines](the-basics/code-of-conduct-and-community-guidelines.md)
 * [PI Expectations](the-basics/pi-expectations.md)
 * [Student Expectations](the-basics/student-expectations.md)
-* [Code of Conduct and Community Guidelines](the-basics/code-of-conduct-and-community-guidelines.md)
 * [Lab Communications](the-basics/lab-communications.md)
 * [Lab Meetings](the-basics/lab-meetings.md)
 
