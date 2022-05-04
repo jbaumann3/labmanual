@@ -19,3 +19,4 @@
 * [Scientific Integrity](lab-resources/scientific-integrity.md)
 * [Scheduling Meetings](lab-resources/scheduling-meetings.md)
 * [Letters of Recommendation](lab-resources/letters-of-recommendation.md)
+* [Individual Development Plans](lab-resources/individual-development-plans.md)
