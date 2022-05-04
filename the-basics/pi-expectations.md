@@ -1,12 +1,6 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
----
-
 # PI Expectations
 
-As Principal Investigator (PI) in the lab, Justin (Dr. Baumann) promises to:
+**As Principal Investigator (PI) in the lab, Justin (Dr. Baumann) promises to:**
 
 1.) **Abide by all of the guidelines outlines above** in the [code of conduct](code-of-conduct-and-community-guidelines.md)
 
