@@ -12,7 +12,10 @@
 * [Lab Communications](the-basics/lab-communications.md)
 * [Lab Meetings](the-basics/lab-meetings.md)
 
-## The Formal Stuff
+## Lab Resources
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Data Management ](lab-resources/data-management.md)
+* [How to access shared data and methods](lab-resources/how-to-access-shared-data-and-methods.md)
+* [Scientific Integrity](lab-resources/scientific-integrity.md)
+* [Scheduling Meetings](lab-resources/scheduling-meetings.md)
+* [Letters of Recommendation](lab-resources/letters-of-recommendation.md)
