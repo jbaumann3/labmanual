@@ -4,6 +4,7 @@
 
 ## The Basics
 
+* [Apply to join the lab!](the-basics/apply-to-join-the-lab.md)
 * [Land Acknowledgement](the-basics/land-acknowledgement.md)
 * [Diversity, Equity, Inclusion, and Justice statement](the-basics/diversity-equity-inclusion-and-justice-statement.md)
 * [Code of Conduct and Community Guidelines](the-basics/code-of-conduct-and-community-guidelines.md)
