@@ -17,9 +17,9 @@
 
 * [Scheduling Meetings](lab-resources/scheduling-meetings.md)
 * [Letters of Recommendation](lab-resources/letters-of-recommendation.md)
+* [Individual Development Plans](lab-resources/individual-development-plans.md)
 * [Data Management ](lab-resources/data-management/README.md)
   * [How to access shared data and methods](lab-resources/data-management/how-to-access-shared-data-and-methods.md)
 * [Scientific Integrity](lab-resources/scientific-integrity.md)
-* [Individual Development Plans](lab-resources/individual-development-plans.md)
 * [Safety Training](lab-resources/safety-training.md)
 * [The Hidden Curriculum](lab-resources/the-hidden-curriculum.md)
