@@ -11,3 +11,5 @@ You can access the AAAS / Science Careers online IDP here: [https://myidp.scienc
 You can also use my IDP template (google sheets) here: [https://docs.google.com/spreadsheets/d/1PyfxjCM65KBaZ7HXfNElp5-qYtyikncvio83u8kEkf8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PyfxjCM65KBaZ7HXfNElp5-qYtyikncvio83u8kEkf8/edit?usp=sharing)
 
 Feel free to download and complete or make a copy for your own use!
+
+\*Note that my IDP template comes with a second sheet for recording your hours, projects, and activities. If helpful, I am happy to discuss how to manage time and plan project in more detail.
